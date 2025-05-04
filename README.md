@@ -9,8 +9,6 @@ Generar un archivo .json con los datos de la película.
     Ahora para adaptar nuestro código y seguir accediendo a la información de la película de Star Wars, necesitamos hacer un pequeño cambio en nuestra clase ConsultaPelicula.
     URI.create("https://swapi.py4e.com/api/films/"+numeroDePelicula+"/");
 
-# Dependencies
+# Dependency
     - Gson 2.9.0 to 2.11.0: Java 7
-    resorunse: https://github.com/google/gson
-
-# StartWardApi
+    resource: https://github.com/google/gson
